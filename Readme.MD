@@ -2,7 +2,7 @@
 
 El siguiente script tiene como finalidad poder crear un ambientes de desarrollo para trabajar sobre Laravel con MariaDB
 
-##Requisitos
+# Requisitos
 Tener instalado docker
 
 1. Crear el proyecto laravel 
@@ -13,7 +13,7 @@ Tener instalado docker
 
 Para poder acceder al proyecto laravel en el navegador debemos colocar http://localhost:9000
 
-##MYSQL
+# MYSQL
 
 Para poder ingresar a la base de datos se puede hacer mediante el programa [HeidiSQL](https://www.heidisql.com/download.php) con las credenciales root, la clave es vacia y la base de datos es bitnami_myapp, recordar que el host es localhost.
 
